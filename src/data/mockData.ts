@@ -9,7 +9,7 @@ export const mockIncidents: Incident[] = [
     reported_at: "2025-03-15T10:00:00Z"
   },
   { 
-    id: 2, 
+    id: 21, 
     title: "LLM Hallucination in Critical Info", 
     description: "Large Language Model provided incorrect safety procedure information when asked about emergency protocols in a healthcare context. This could have led to dangerous outcomes if the information had been acted upon without verification.", 
     severity: "High", 
